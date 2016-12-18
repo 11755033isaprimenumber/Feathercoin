@@ -202,22 +202,22 @@
 #define HAVE_WORKING_BOOST_SLEEP_FOR 1
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "info@ftc-c.com"
+#define PACKAGE_BUGREPORT "candycoin@dunnousername.me"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "Feathercoin Core"
+#define PACKAGE_NAME "Candycoin Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "Feathercoin Core 0.9.3"
+#define PACKAGE_STRING "Candycoin Core 0.0.1"
 
 /* Define to the one symbol short name of this package. */
-#define PACKAGE_TARNAME "feathercoin"
+#define PACKAGE_TARNAME "candycoin"
 
 /* Define to the home page for this package. */
 #define PACKAGE_URL ""
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "0.9.3"
+#define PACKAGE_VERSION "0.0.1"
 
 /* Define to necessary symbol if this constant uses a non-standard name on
    your system. */
